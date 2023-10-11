@@ -13,7 +13,7 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Índice/Sumário
 
-* [Sobre](#sobre-o-projeto)
+* [Sobre](#Sobre-o-CDL-Digital:-Empreendendo-o-Futuro-Juntos)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
@@ -24,57 +24,50 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 
 # Requisitos Funcionais 
-Para o Grupo CDL Belo Horizonte:
-Notícias e Divulgações:
 
-Descrição: O sistema deve fornecer uma área onde as notícias podem ser categorizadas e as divulgações da CDL Belo Horizonte podem ser feitas.
-Aplicativo da CDL/BH:
+ <b>Histórias de Usuários para CDL Belo Horizonte:</b>
+1. Acesso a Notícias e Divulgações:
+   - Como um membro da CDL Belo Horizonte, eu quero acessar notícias e divulgações categorizadas para me manter informado sobre eventos e atividades da CDL.*
 
-Descrição: O aplicativo deve conter um módulo específico para o CDL Jovem. Os usuários devem poder acessar o aplicativo usando os mesmos detalhes de usuário e senha da área restrita atual, e essas credenciais devem ser válidas em um banco de dados único.
-Geração de Boleto:
+2. Módulo CDL Jovem no Aplicativo:
+   - Como um usuário do aplicativo CDL/BH, eu quero acessar o módulo CDL Jovem com minhas credenciais atuais para interagir com conteúdo e funcionalidades específicas para jovens empreendedores.
 
-Descrição: Os usuários devem ter a capacidade de gerar uma segunda via de boletos com a linha digitável correspondente.
-Integrações:
+3. Geração de Segunda Via de Boleto:
+   - Como um associado da CDL Belo Horizonte, eu quero gerar facilmente uma segunda via de boletos, incluindo a linha digitável, para efetuar pagamentos convenientemente.
 
-Descrição: Integração com o cadastro de associados da CDL/BH para buscar a linha digitável. Além disso, leads devem ser gravadas no Pipedrive para futuras referências.
-Relatórios:
+4. Integrações e Leads:
+   - Como um usuário, eu quero que as informações de associados da CDL/BH se integrem ao sistema para acessar dados atualizados. Além disso, eu quero gravar leads no Pipedrive para referências futuras.
 
-Descrição: O sistema deve ser capaz de gerar relatórios detalhados, incluindo informações como acesso, login, publicações e as telas mais acessadas, proporcionando uma visão geral das atividades do usuário.
-Para o Grupo CDL Jovem:
-Telas de Cadastro:
+5. Relatórios Detalhados:
+   - Como um administrador da CDL Belo Horizonte, eu quero gerar relatórios detalhados sobre atividades dos usuários, incluindo acesso, login, publicações e áreas mais visitadas para entender melhor o envolvimento dos membros.
 
-Descrição: O sistema deve fornecer telas de cadastro administráveis, para membros, empresas e dados da CDL/BH, buscando essas informações do banco de dados.
-Catálogo de Soluções:
+<b>Histórias de Usuários para CDL Jovem:</b>
 
-Descrição: Deve permitir o cadastro de soluções com detalhes como categoria, fotos, nome, descrição, preço e informações de contato para compra.
-Eventos:
+1. Cadastro Simples:
+   - Como um membro do CDL Jovem, eu quero me cadastrar facilmente usando telas administráveis, proporcionando uma experiência personalizada.
 
-Descrição: Deve permitir o cadastro de eventos, incluindo tipo, data de início, data de fim, formato, endereço e link relevante.
-Convidados:
+2. Adicionar Soluções ao Catálogo:
+   - Como um usuário, eu quero adicionar soluções ao catálogo com fotos, descrição, preço e detalhes de contato para que outros membros possam explorar e adquirir produtos ou serviços.
 
-Descrição: Deve permitir o cadastro de convidados para eventos, incluindo informações como nome, profissão, telefone, e-mail e razão social da empresa.
-Sistema de Ranqueamento:
+3. Criar e Gerenciar Eventos:
+   - Como um organizador de eventos, eu quero criar eventos, definir detalhes como tipo, data, formato, localização e link relevante para informar os membros sobre as próximas atividades.
 
-Descrição: O sistema deve atribuir pontos aos participantes de eventos (1 ponto para presença, -1 ponto para inscrição sem presença), permitindo um sistema de ranqueamento baseado nessas pontuações.
-Tela do Evento:
+4. Cadastro de Convidados para Eventos:
+   - Como um membro da CDL Jovem, eu quero cadastrar convidados para eventos, fornecendo informações como nome, profissão, telefone e e-mail para facilitar a participação.
 
-Descrição: Uma tela dedicada para cada evento, que mostra detalhes do evento, opção de inscrição e check-in no dia do evento.
-Pesquisa de Satisfação:
+5. Sistema de Pontuação para Participação em Eventos:
+   - Como um participante de eventos, eu quero ser pontuado por presença e penalizado por inscrição sem presença para incentivar a participação ativa nas atividades do CDL Jovem.
 
-Descrição: Se o participante comparecer ao evento e fizer o check-in, o sistema deve disponibilizar uma pesquisa de satisfação para coletar feedback.
-Importação de Planilha:
+<b>Benefícios Compartilhados:</b>
 
-Descrição: Os usuários devem ter a capacidade de importar dados a partir de planilhas Excel para facilitar a entrada de dados.
-Benefícios Compartilhados:
-Acesso e Autenticação:
+1. Acesso Unificado:
+   - Como um usuário da plataforma, eu quero acessar todas as funcionalidades usando minhas credenciais atuais da área restrita, proporcionando uma experiência unificada em toda a plataforma CDL.
 
-Descrição: Ambos os grupos (CDL Belo Horizonte e CDL Jovem) devem acessar o sistema usando as mesmas credenciais da área restrita atual, com um banco de dados único para autenticação.
-Painel Administrativo:
+2. Gerenciamento Eficiente:
+   - Como um administrador, eu quero usar o painel de administração para controlar acessos, gerar relatórios e gerenciar publicações para manter a plataforma organizada e relevante para os usuários.
 
-Descrição: Um painel de administração deve ser fornecido para controlar acessos e perfis de usuários, gerar relatórios detalhados e gerenciar as publicações no sistema.
-Catálogo de Soluções (Comum):
+3. Catálogo de Soluções e Captura de Leads:
+   - Como um associado da CDL/BH, eu quero acessar um catálogo de soluções e ter a capacidade de capturar leads para expandir meus contatos comerciais e oportunidades de vendas.
 
-Descrição: Ambos os grupos devem ter acesso a um catálogo de soluções. Além disso, a área de captura de leads deve ser implementada, integrando-se ao Pipedrive (apenas para CDL/BH).
-Compatibilidade:
-
-Descrição: O sistema deve estar disponível tanto para dispositivos Android quanto iOS, garantindo uma ampla acessibilidade aos usuários.
+4. Acesso Multiplataforma:
+   - Como um usuário de dispositivos móveis, eu quero acessar a plataforma tanto em Android quanto em iOS para que eu possa interagir com o conteúdo em qualquer dispositivo que eu preferir.
