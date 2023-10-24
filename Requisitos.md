@@ -51,7 +51,9 @@
 
 #### Personas
 - CDL jovem
+![CDL jovem](https://github.com/LeandroGMayrink/Projeto-A3/assets/142804724/9670079d-bf97-439e-8593-d3391f7f92f8)
 - CDL Belo Horizonte
+![CDL Belo Horizonte](https://github.com/LeandroGMayrink/Projeto-A3/assets/142804724/ae291a0f-c8f6-4c3c-ae9d-339c6303b59d)
 
 #### Cenários
 
@@ -82,4 +84,12 @@ Helena, como uma empresária experiente, utiliza a funcionalidade de integraçõ
 **Requisito Funcional 4: Relatórios Detalhados**
 
 *Cenário para Ana:*
-Ana, interessada em melhorar a interação dos clientes com sua loja, analisa os relatórios detalhados fornecidos pela CDL Bel
+Ana, interessada em melhorar a interação dos clientes com sua loja, analisa os relatórios detalhados fornecidos pela CDL Belo Horizonte. Ela identifica padrões de comportamento dos clientes, ajudando-a a ajustar suas estratégias de vendas e marketing para atender às necessidades dos clientes de forma mais eficaz.
+
+*Cenário para Helena:*
+Helena, como uma empresária que valoriza dados precisos, utiliza os relatórios detalhados para entender o envolvimento dos membros da CDL Jovem em eventos e atividades. Ela usa essas informações para planejar futuros eventos, garantindo que eles sejam relevantes e envolventes para os participantes.
+
+Esses cenários ilustram como Ana e Helena, com suas diferentes experiências e necessidades, podem tirar proveito dos requisitos funcionais oferecidos pela CDL Belo Horizonte, adaptando essas funcionalidades às suas respectivas jornadas empresariais.
+
+---
+**Se a imagem não estiver clara ou você preferir acessar o conteúdo de forma diferente, você pode acessar o documento em formato .docx para uma visualização mais detalhada e fácil de ler. [link](https://docs.google.com/document/d/1mUU1_ApdFOCHcei0XA6fD2GwvClVdaUo7dP8K5BJUFY/edit?usp=sharing)**
