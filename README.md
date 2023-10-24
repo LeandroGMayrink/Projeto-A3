@@ -3,7 +3,7 @@
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
-# Sobre o CDL Digital: Empreendendo o Futuro Juntos
+# CDL Digital: Empreendendo o Futuro Juntos
 
 <h4 align="center"> 
 	O projeto "CDL Digital: Empreendendo o Futuro Juntos" representa uma inovação transformadora para a Câmara de Dirigentes Lojistas (CDL). Essa iniciativa oferece aos membros da CDL uma plataforma digital integrada, proporcionando acesso a notícias personalizadas, ferramentas financeiras avançadas e relatórios detalhados. Além disso, o projeto inclui um módulo exclusivo para o CDL Jovem, facilitando a interação e o compartilhamento de conhecimento entre jovens empreendedores. O CDL Digital não apenas conecta empresários, mas também capacita-os para enfrentar os desafios do mercado, promovendo uma comunidade empresarial forte e colaborativa.
@@ -11,9 +11,10 @@
 
 # Índice/Sumário
 
-* [Sobre](#Sobre-o-CDL-Digital:-Empreendendo-o-Futuro-Juntos)
+* [Sobre](#CDL-Digital:-Empreendendo-o-Futuro-Juntos)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
+* [Protótipos] (#Protótipos)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -69,3 +70,9 @@
 
 4. Acesso Multiplataforma:
    - Como um usuário de dispositivos móveis, eu quero acessar a plataforma tanto em Android quanto em iOS para que eu possa interagir com o conteúdo em qualquer dispositivo que eu preferir.
+
+   
+# Protótipos
+
+1.Os protótipos de baixa fidelidade
+   - são esboços básicos e simples que ajudam a visualizar ideias sem gastar muito tempo ou recursos. Para começar com protótipos de baixa fidelidade. ![protótipos de baixa fidelidade (lo-fi)](https://miro.com/app/board/uXjVNYjiQX4=/?share_link_id=438638425718)
