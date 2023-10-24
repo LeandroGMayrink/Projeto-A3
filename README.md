@@ -1,78 +1,78 @@
-# CDL Digital: Empreendendo o Futuro Juntos
 
+---
+
+### **CDL Digital: Empreendendo o Futuro Juntos**
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
-# CDL Digital: Empreendendo o Futuro Juntos
+O projeto **"CDL Digital: Empreendendo o Futuro Juntos"** representa uma inovação transformadora para a Câmara de Dirigentes Lojistas (CDL). Essa iniciativa oferece aos membros da CDL uma plataforma digital integrada, proporcionando acesso a notícias personalizadas, ferramentas financeiras avançadas e relatórios detalhados. Além disso, o projeto inclui um módulo exclusivo para o CDL Jovem, facilitando a interação e o compartilhamento de conhecimento entre jovens empreendedores. O CDL Digital não apenas conecta empresários, mas também capacita-os para enfrentar os desafios do mercado, promovendo uma comunidade empresarial forte e colaborativa.
 
-<h4 align="center"> 
-	O projeto "CDL Digital: Empreendendo o Futuro Juntos" representa uma inovação transformadora para a Câmara de Dirigentes Lojistas (CDL). Essa iniciativa oferece aos membros da CDL uma plataforma digital integrada, proporcionando acesso a notícias personalizadas, ferramentas financeiras avançadas e relatórios detalhados. Além disso, o projeto inclui um módulo exclusivo para o CDL Jovem, facilitando a interação e o compartilhamento de conhecimento entre jovens empreendedores. O CDL Digital não apenas conecta empresários, mas também capacita-os para enfrentar os desafios do mercado, promovendo uma comunidade empresarial forte e colaborativa.
-</h4>
+---
 
-# Índice/Sumário
+### **Índice/Sumário**
 
-* [Sobre](#CDL-Digital:-Empreendendo-o-Futuro-Juntos)
-* [Sumário](#índice/sumário)
+* [Sobre](#cdl-digital)
 * [Requisitos Funcionais](#requisitos-funcionais)
-* [Protótipos] (#Protótipos)
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
+* [Protótipos](#protótipos)
 * [Autores](#autores)
 * [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
 
+---
 
-# Requisitos Funcionais 
+### **Requisitos Funcionais**
 
- <b>Histórias de Usuários para CDL Belo Horizonte:</b>
-1. Acesso a Notícias e Divulgações:
-   - Como um membro da CDL Belo Horizonte, eu quero acessar notícias e divulgações categorizadas para me manter informado sobre eventos e atividades da CDL.*
+**Histórias de Usuários para CDL Belo Horizonte:**
 
-2. Módulo CDL Jovem no Aplicativo:
-   - Como um usuário do aplicativo CDL/BH, eu quero acessar o módulo CDL Jovem com minhas credenciais atuais para interagir com conteúdo e funcionalidades específicas para jovens empreendedores.
+1. **Acesso a Notícias e Divulgações:**
+   - Membros querem acessar notícias e divulgações categorizadas para se manterem informados sobre eventos e atividades da CDL.
 
-3. Geração de Segunda Via de Boleto:
-   - Como um associado da CDL Belo Horizonte, eu quero gerar facilmente uma segunda via de boletos, incluindo a linha digitável, para efetuar pagamentos convenientemente.
+2. **Módulo CDL Jovem no Aplicativo:**
+   - Usuários querem acessar o módulo CDL Jovem com credenciais atuais para interagir com conteúdo e funcionalidades específicas para jovens empreendedores.
 
-4. Integrações e Leads:
-   - Como um usuário, eu quero que as informações de associados da CDL/BH se integrem ao sistema para acessar dados atualizados. Além disso, eu quero gravar leads no Pipedrive para referências futuras.
+3. **Geração de Segunda Via de Boleto:**
+   - Associados desejam gerar facilmente uma segunda via de boletos para pagamentos convenientes.
 
-5. Relatórios Detalhados:
-   - Como um administrador da CDL Belo Horizonte, eu quero gerar relatórios detalhados sobre atividades dos usuários, incluindo acesso, login, publicações e áreas mais visitadas para entender melhor o envolvimento dos membros.
+4. **Integrações e Leads:**
+   - Usuários querem integração de informações da CDL/BH e gravar leads no Pipedrive para referências futuras.
 
-<b>Histórias de Usuários para CDL Jovem:</b>
+5. **Relatórios Detalhados:**
+   - Administradores querem gerar relatórios detalhados sobre atividades dos usuários para entender melhor o envolvimento dos membros.
 
-1. Cadastro Simples:
-   - Como um membro do CDL Jovem, eu quero me cadastrar facilmente usando telas administráveis, proporcionando uma experiência personalizada.
+**Histórias de Usuários para CDL Jovem:**
 
-2. Adicionar Soluções ao Catálogo:
-   - Como um usuário, eu quero adicionar soluções ao catálogo com fotos, descrição, preço e detalhes de contato para que outros membros possam explorar e adquirir produtos ou serviços.
+1. **Cadastro Simples:**
+   - Membros do CDL Jovem querem se cadastrar facilmente usando telas administráveis.
 
-3. Criar e Gerenciar Eventos:
-   - Como um organizador de eventos, eu quero criar eventos, definir detalhes como tipo, data, formato, localização e link relevante para informar os membros sobre as próximas atividades.
+2. **Adicionar Soluções ao Catálogo:**
+   - Usuários querem adicionar soluções ao catálogo com fotos, descrição, preço e detalhes de contato.
 
-4. Cadastro de Convidados para Eventos:
-   - Como um membro da CDL Jovem, eu quero cadastrar convidados para eventos, fornecendo informações como nome, profissão, telefone e e-mail para facilitar a participação.
+3. **Criar e Gerenciar Eventos:**
+   - Organizadores de eventos querem criar eventos e gerenciar detalhes como tipo, data, formato, localização e link relevante.
 
-5. Sistema de Pontuação para Participação em Eventos:
-   - Como um participante de eventos, eu quero ser pontuado por presença e penalizado por inscrição sem presença para incentivar a participação ativa nas atividades do CDL Jovem.
+4. **Cadastro de Convidados para Eventos:**
+   - Membros da CDL Jovem querem cadastrar convidados para eventos fornecendo informações como nome, profissão, telefone e e-mail.
 
-<b>Benefícios Compartilhados:</b>
+5. **Sistema de Pontuação para Participação em Eventos:**
+   - Participantes querem ser pontuados por presença para incentivar a participação ativa nas atividades do CDL Jovem.
 
-1. Acesso Unificado:
-   - Como um usuário da plataforma, eu quero acessar todas as funcionalidades usando minhas credenciais atuais da área restrita, proporcionando uma experiência unificada em toda a plataforma CDL.
+**Benefícios Compartilhados:**
 
-2. Gerenciamento Eficiente:
-   - Como um administrador, eu quero usar o painel de administração para controlar acessos, gerar relatórios e gerenciar publicações para manter a plataforma organizada e relevante para os usuários.
+1. **Acesso Unificado:**
+   - Usuários querem acessar todas as funcionalidades usando credenciais atuais para uma experiência unificada.
 
-3. Catálogo de Soluções e Captura de Leads:
-   - Como um associado da CDL/BH, eu quero acessar um catálogo de soluções e ter a capacidade de capturar leads para expandir meus contatos comerciais e oportunidades de vendas.
+2. **Gerenciamento Eficiente:**
+   - Administradores querem usar o painel de administração para controlar acessos, gerar relatórios e gerenciar publicações.
 
-4. Acesso Multiplataforma:
-   - Como um usuário de dispositivos móveis, eu quero acessar a plataforma tanto em Android quanto em iOS para que eu possa interagir com o conteúdo em qualquer dispositivo que eu preferir.
+3. **Catálogo de Soluções e Captura de Leads:**
+   - Associados querem acessar um catálogo de soluções e capturar leads para expandir contatos comerciais.
 
-   
-# Protótipos
+4. **Acesso Multiplataforma:**
+   - Usuários querem acessar a plataforma em Android e iOS para interagir com o conteúdo em qualquer dispositivo.
 
-1.Os protótipos de baixa fidelidade
-   - são esboços básicos e simples que ajudam a visualizar ideias sem gastar muito tempo ou recursos. Para começar com protótipos de baixa fidelidade. ![protótipos de baixa fidelidade (lo-fi)](https://miro.com/app/board/uXjVNYjiQX4=/?share_link_id=438638425718)
+---
+
+### **Protótipos**
+
+Os [protótipos de baixa fidelidade](https://miro.com/app/board/uXjVNYjiQX4=/?share_link_id=438638425718) são esboços básicos e simples para visualizar ideias sem gastar muito tempo ou recursos.
+
+---
