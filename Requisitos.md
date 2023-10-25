@@ -47,7 +47,8 @@
 
 ### Fluxo de Usuário
 
-![Fluxo de Usuário](https://github.com/LeandroGMayrink/Projeto-A3/assets/142804724/ebddc10d-9b78-4136-a296-8708223bc8af)
+![Fluxo de Usuário](https://github.com/LeandroGMayrink/Projeto-A3/assets/142804724/e3a2c5ff-1537-4d8d-9f85-2279a76a55c4)
+
 
 #### Personas
 - CDL jovem
