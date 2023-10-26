@@ -21,7 +21,7 @@
    - Como um usuário, eu quero ver soluções ao catálogo com fotos, descrição, preço e detalhes de contato para que outros membros possam explorar e adquirir produtos ou serviços.
 
 3. **Acessar e ver Eventos:**
-   -  Como um membro da CDL Jovem, eu quero eventos, definir detalhes como tipo, data, formato, localização e link relevante para informar os membros sobre as próximas atividades.
+   -  Como um membro da CDL Jovem, eu quero ir eventos, que tenha detalhes como tipo, data, formato, localização e link relevante para informar os membros sobre as próximas atividades.
 
 4. **Cadastro de Convidados para Eventos:**
    - Como um membro da CDL Jovem, eu quero cadastrar convidados para eventos, fornecendo informações como nome, profissão, telefone e e-mail para facilitar a participação.
