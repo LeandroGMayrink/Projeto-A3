@@ -18,10 +18,10 @@
    - Como um membro do CDL Jovem, eu quero me cadastrar facilmente usando telas administráveis, proporcionando uma experiência personalizada.
 
 2. **Adicionar Soluções ao Catálogo:**
-   - Como um usuário, eu quero adicionar soluções ao catálogo com fotos, descrição, preço e detalhes de contato para que outros membros possam explorar e adquirir produtos ou serviços.
+   - Como um usuário, eu quero ver soluções ao catálogo com fotos, descrição, preço e detalhes de contato para que outros membros possam explorar e adquirir produtos ou serviços.
 
-3. **Criar e Gerenciar Eventos:**
-   - Como um organizador de eventos, eu quero criar eventos, definir detalhes como tipo, data, formato, localização e link relevante para informar os membros sobre as próximas atividades.
+3. **Acessar e ver Eventos:**
+   -  Como um membro da CDL Jovem, eu quero eventos, definir detalhes como tipo, data, formato, localização e link relevante para informar os membros sobre as próximas atividades.
 
 4. **Cadastro de Convidados para Eventos:**
    - Como um membro da CDL Jovem, eu quero cadastrar convidados para eventos, fornecendo informações como nome, profissão, telefone e e-mail para facilitar a participação.
