@@ -44,7 +44,8 @@
 
 ### Fluxo de Usuário
 
-![Fluxo de Usuário](https://github.com/LeandroGMayrink/Projeto-A3/assets/142804724/e3a2c5ff-1537-4d8d-9f85-2279a76a55c4)
+![Fluxo de Usuário](https://github.com/LeandroGMayrink/Projeto-A3/assets/142804724/7545b5ae-09fe-440b-b4c1-6d24df4eb95b)
+
 
 
 #### Personas
