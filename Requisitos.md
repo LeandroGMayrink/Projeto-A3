@@ -23,10 +23,7 @@
 3. **Acessar e ver Eventos:**
    -  Como um membro da CDL Jovem, eu quero ir eventos, que tenha detalhes como tipo, data, formato, localização e link relevante para informar os membros sobre as próximas atividades.
 
-4. **Cadastro de Convidados para Eventos:**
-   - Como um membro da CDL Jovem, eu quero cadastrar convidados para eventos, fornecendo informações como nome, profissão, telefone e e-mail para facilitar a participação.
-
-5. **Sistema de Pontuação para Participação em Eventos:**
+4. **Sistema de Pontuação para Participação em Eventos:**
    - Como um participante de eventos, eu quero ser pontuado por presença e penalizado por inscrição sem presença para incentivar a participação ativa nas atividades do CDL Jovem.
 
 ## Benefícios Compartilhados
