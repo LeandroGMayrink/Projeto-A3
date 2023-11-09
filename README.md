@@ -83,7 +83,7 @@ Link do [Figma](https://www.figma.com/file/HaIfB0yNjotYV30BT9wgyQ/A3-Prot%C3%B3t
 
 # Autores
 
-[Leandro]([https://github.com/testing-library/react-testing-library#contributors](https://github.com/LeandroGMayrink))
+[Leandro](https://github.com/LeandroGMayrink)
 
 ---
 
